@@ -2,6 +2,6 @@
 
 ## Integrantes
 
-Alexandre Marques Spinola
-.
-Gustavo do Carmo Resende
+- Alexandre Marques Spinola
+
+- Gustavo do Carmo Resende
