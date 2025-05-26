@@ -16,7 +16,7 @@ Este projeto implementa um algoritmo de **Path Scanning** para resolver problema
 
 - Leitura de instâncias logísticas em formato `.dat` ou `.txt`
 - Cálculo de estatísticas do grafo (graus, densidade, componentes, etc.)
-- Construção de matriz de distâncias com Dijkstra
+- Construção de matriz de distâncias com Floyd-Warshall
 - Implementação do algoritmo **Path Scanning** com critério baseado na menor distância
 - Geração de rotas viáveis respeitando:
   - Capacidade dos veículos
