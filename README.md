@@ -30,8 +30,8 @@ Este projeto implementa um algoritmo de **Path Scanning** para resolver problema
 1. Acesse o Colab: [https://colab.research.google.com/](https://colab.research.google.com/)
 2. Clique em **"Upload"** e envie o notebook `.ipynb` do projeto.
 3. **Envie os arquivos necessários**:
-   - A instância `.dat` ou `.txt` (pode ser via upload manual ou colagem de texto no terminal)
-   - Se preferir colar manualmente, use o arquivo `input_terminal_nome_instancia.txt`
+   - A primeira instância deve ser inserida no terminal 
+   - Para a segunda etapa, deve-se colocar uma pasta com o nome MCGRP contendo todas as instâncias `.dat`
 4. Execute as células em ordem, começando pelas de leitura do grafo.
 
 ---
