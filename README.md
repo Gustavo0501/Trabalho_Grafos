@@ -33,11 +33,3 @@ Este projeto implementa um algoritmo de **Path Scanning** para resolver problema
    - A primeira instância deve ser inserida no terminal 
    - Para a segunda etapa, deve-se colocar uma pasta com o nome MCGRP contendo todas as instâncias `.dat`
 4. Execute as células em ordem, começando pelas de leitura do grafo.
-
----
-
-## 📁 Estrutura esperada dos arquivos
-
-- `input_manual_nome.txt`: formato amigável para leitura por script
-- `input_terminal_nome.txt`: formato para ser colado no terminal interativo
-- `Notebook.ipynb`: notebook com as funções implementadas
